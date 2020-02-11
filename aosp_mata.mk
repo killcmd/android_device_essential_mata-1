@@ -24,7 +24,7 @@ endif
 
 # Device identifiers
 PRODUCT_DEVICE := mata
-PRODUCT_NAME := aicp_mata
+PRODUCT_NAME := aosp_mata
 PRODUCT_BRAND := essential
 PRODUCT_MODEL := PH-1
 PRODUCT_MANUFACTURER := Essential Products
@@ -46,4 +46,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # AICP Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    DEVICE_MAINTAINERS="Vlad Adumitroaie (celtare21)"
+    DEVICE_MAINTAINERS="KiLLCMD"
